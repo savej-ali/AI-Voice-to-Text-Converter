@@ -3,6 +3,7 @@
 A sleek, modern Tkinter-based application that converts speech to text using the Wav2Vec2 model. It allows users to upload .wav files for transcription.
 
 ⚙️ Key Features
+
 📁 Upload .wav audio files for transcription
 
 ✍️ Start transcription with a single button click
